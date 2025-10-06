@@ -36,9 +36,3 @@
 This project demonstrates the **full lifecycle of a desktop application**, from GUI design to handling user input events and implementing core text editor features. The editor emphasizes **clean code architecture** and **modular design**, making it easily extensible for future features like syntax highlighting or plugins.
 
 ---
-
-## 📦 Installation / Running
-
-1. Clone the repository:
-```bash
-git clone https://github.com/<your-username>/WxWidgetsTextEditor.git
